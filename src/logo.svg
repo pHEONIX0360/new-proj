@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <!-- Your SVG content here -->
+  <rect x="0" y="0" width="200" height="200" fill="lightgray" />
+  <text x="50%" y="50%" fill="black" text-anchor="middle">Hello, SVG!</text>
+  <!-- Place your image here -->
+  <image href="C:\Users\joeso\OneDrive\Desktop\MINI p 1\sample site\PROJT\react-students\_68ccf268-8815-4c8c-a51b-8bdb17dfde24.jpeg" x="50" y="50" width="100" height="100" />
+</svg>
